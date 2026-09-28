@@ -1,0 +1,101 @@
+date,category,payment_method,amount,need_or_want
+2026-08-01,Food,UPI,378,Need
+2026-08-02,Shopping,Card,2010,Want
+2026-08-03,Education,Cash,4497,Need
+2026-08-04,Transport,Net Banking,181,Need
+2026-08-05,Entertainment,UPI,485,Want
+2026-08-06,Healthcare,Card,2783,Need
+2026-08-07,Rent,Cash,18000,Need
+2026-08-08,Utilities,Net Banking,2187,Need
+2026-08-09,Food,UPI,122,Need
+2026-08-10,Shopping,Card,596,Want
+2026-08-11,Education,Cash,4467,Need
+2026-08-12,Transport,Net Banking,55,Need
+2026-08-13,Entertainment,UPI,620,Want
+2026-08-14,Healthcare,Card,2625,Need
+2026-08-15,Rent,Cash,18000,Need
+2026-08-16,Utilities,Net Banking,1282,Need
+2026-08-17,Food,UPI,418,Need
+2026-08-18,Shopping,Card,3803,Want
+2026-08-19,Education,Cash,792,Need
+2026-08-20,Transport,Net Banking,369,Need
+2026-08-21,Entertainment,UPI,422,Want
+2026-08-22,Healthcare,Card,1406,Need
+2026-08-23,Rent,Cash,18000,Need
+2026-08-24,Utilities,Net Banking,1912,Need
+2026-08-25,Food,UPI,257,Need
+2026-08-26,Shopping,Card,1164,Want
+2026-08-27,Education,Cash,4009,Need
+2026-08-28,Transport,Net Banking,88,Need
+2026-08-29,Entertainment,UPI,1821,Want
+2026-08-30,Healthcare,Card,1469,Need
+2026-08-01,Rent,Cash,18000,Need
+2026-08-02,Utilities,Net Banking,1034,Need
+2026-08-03,Food,UPI,132,Need
+2026-08-04,Shopping,Card,1005,Want
+2026-08-05,Education,Cash,3126,Need
+2026-08-06,Transport,Net Banking,178,Need
+2026-08-07,Entertainment,UPI,1610,Want
+2026-08-08,Healthcare,Card,2921,Need
+2026-08-09,Rent,Cash,18000,Need
+2026-08-10,Utilities,Net Banking,1184,Need
+2026-08-11,Food,UPI,521,Need
+2026-08-12,Shopping,Card,667,Want
+2026-08-13,Education,Cash,673,Need
+2026-08-14,Transport,Net Banking,434,Need
+2026-08-15,Entertainment,UPI,1495,Want
+2026-08-16,Healthcare,Card,2896,Need
+2026-08-17,Rent,Cash,18000,Need
+2026-08-18,Utilities,Net Banking,2384,Need
+2026-08-19,Food,UPI,643,Need
+2026-08-20,Shopping,Card,3006,Want
+2026-08-21,Education,Cash,4898,Need
+2026-08-22,Transport,Net Banking,494,Need
+2026-08-23,Entertainment,UPI,1191,Want
+2026-08-24,Healthcare,Card,790,Need
+2026-08-25,Rent,Cash,18000,Need
+2026-08-26,Utilities,Net Banking,2818,Need
+2026-08-27,Food,UPI,482,Need
+2026-08-28,Shopping,Card,1158,Want
+2026-08-29,Education,Cash,3378,Need
+2026-08-30,Transport,Net Banking,129,Need
+2026-08-01,Entertainment,UPI,219,Want
+2026-08-02,Healthcare,Card,2345,Need
+2026-08-03,Rent,Cash,18000,Need
+2026-08-04,Utilities,Net Banking,2847,Need
+2026-08-05,Food,UPI,534,Need
+2026-08-06,Shopping,Card,1503,Want
+2026-08-07,Education,Cash,2219,Need
+2026-08-08,Transport,Net Banking,262,Need
+2026-08-09,Entertainment,UPI,1727,Want
+2026-08-10,Healthcare,Card,3413,Need
+2026-08-11,Rent,Cash,18000,Need
+2026-08-12,Utilities,Net Banking,1387,Need
+2026-08-13,Food,UPI,698,Need
+2026-08-14,Shopping,Card,2165,Want
+2026-08-15,Education,Cash,1207,Need
+2026-08-16,Transport,Net Banking,336,Need
+2026-08-17,Entertainment,UPI,1724,Want
+2026-08-18,Healthcare,Card,806,Need
+2026-08-19,Rent,Cash,18000,Need
+2026-08-20,Utilities,Net Banking,2910,Need
+2026-08-21,Food,UPI,129,Need
+2026-08-22,Shopping,Card,2856,Want
+2026-08-23,Education,Cash,4950,Need
+2026-08-24,Transport,Net Banking,387,Need
+2026-08-25,Entertainment,UPI,2282,Want
+2026-08-26,Healthcare,Card,2663,Need
+2026-08-27,Rent,Cash,18000,Need
+2026-08-28,Utilities,Net Banking,2103,Need
+2026-08-29,Food,UPI,408,Need
+2026-08-30,Shopping,Card,988,Want
+2026-08-01,Education,Cash,1998,Need
+2026-08-02,Transport,Net Banking,55,Need
+2026-08-03,Entertainment,UPI,1294,Want
+2026-08-04,Healthcare,Card,707,Need
+2026-08-05,Rent,Cash,18000,Need
+2026-08-06,Utilities,Net Banking,2443,Need
+2026-08-07,Food,UPI,205,Need
+2026-08-08,Shopping,Card,312,Want
+2026-08-09,Education,Cash,3467,Need
+2026-08-10,Transport,Net Banking,367,Need
